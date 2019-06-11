@@ -13,6 +13,6 @@ deploy:
     secure: F6ggrvWMtWfu7JXDjWCm1vbKwO8SDF7+9EIt/Vd/ax3hnelMqSg896ftMo4ng8npFKo0yoI/2XoO2kysduowWTSQc8/pgaOA8KeXAnqnJtOyc4DfSE7aNDs0JccB+ocajcfl4QhQR2QcBFmC04f84yGfwI64BL92JhKqcaAN+G98Rk4vvsZ3RVTq6rqW538jgm/EzRvfRjvAw/d+1/XTScgAzpnB8A13BReBB35ghiC7t/kmmsLU25dLDyAQ5Ihtyjaed9R3wj+pS4JD8+9jwSVG1rzrQuu7Od+oyaBrXbNe2a+zG6nOp91eBL/Ko/J6XVVgSpYW5RXBGxIxs09QLxQp0TqPJ1x34rPUK4Nn/omiuwaBLB0tboBi+Rs3+7Jx25SxSfiIrun/D1GLYOCoJ1nHlXDIvYOp6yZCx7GHHcdwpJDDhw/GOrrSyzACAwIfJWPiJqd1CyumB0pAOMB41aeALkrblP+FhzZRk4wAeMc3eaTJHW2P7LCR0UURgF1mcfZiEDyYfXIvrpYQ8heZPtidspfo2nqiv17TrIgpgZj/tGjsY2pKA50JHtHlt13KE5kmFu8lS0lalmpXYrbASMWXsEpwRVmS+dQkUvlSCn9KlAYb7CvJG13sdbeL+f5/bEnatTpbUB2ydmMwtegUvki0PRTrUGqDnOBo7azTjMI=
   skip_cleanup: true
   project: "./build/"
-  app: dev-guild-theo-pipeline
+  app: dev-guild-theo
 true:
   branch: master
